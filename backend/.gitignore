@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+/env/development.env
+/env/local.env
+/env/production.env
