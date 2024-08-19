@@ -40,7 +40,7 @@ GrantChain is a decentralized platform that redefines the grant awarding process
 
 - Node.js
 - MySQL
-- Ethereum Node (or Infura)
+- Klaytn Network
 - Truffle or Hardhat for contract deployment
 
 ### Installation Steps
